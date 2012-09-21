@@ -84,7 +84,7 @@ Overrealm::Application.configure do
   # with SQLite, MySQL, and PostgreSQL)
   # config.active_record.auto_explain_threshold_in_seconds = 0.5
 
-  Tire.configuration do
+  Tire.configure do
     url ENV['SEARCHBOX_URL']
   end
 
