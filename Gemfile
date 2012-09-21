@@ -19,6 +19,7 @@ gem "rolify", ">= 3.2.0"
 gem "bootstrap-will_paginate"
 gem "pony"
 gem "redcarpet"
+gem 'tire'
 
 group :development, :test do
   gem "haml-rails", ">= 0.3.5", :group => :development

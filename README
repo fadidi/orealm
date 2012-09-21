@@ -17,3 +17,5 @@ Preferences:
 ________________________
 
 License
+
+Set up elasticsearch for local dev/testing, and access it (default) on localhost:9200
